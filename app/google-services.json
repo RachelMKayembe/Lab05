@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007457722665",
+    "firebase_url": "https://productcatalog-61c00.firebaseio.com",
+    "project_id": "productcatalog-61c00",
+    "storage_bucket": "productcatalog-61c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007457722665:android:057fd3fcbcc76cf390d738",
+        "android_client_info": {
+          "package_name": "mgarzon.createbest.productcatalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007457722665-son2od9ambapc82ihtt7mufg4g5rm9jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lhJZA72O9bMrVU1vo1fGpWa5sp3P3fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007457722665-son2od9ambapc82ihtt7mufg4g5rm9jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
